@@ -1,0 +1,4 @@
+Levenshtein
+aiogram==3.0.0b7
+pydantic[dotenv]
+bs4
